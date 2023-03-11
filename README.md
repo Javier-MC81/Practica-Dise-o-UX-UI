@@ -1,4 +1,4 @@
-# Practica-Diseño-UX-UI
+# Práctica-Diseño-UX-UI
 
 --El enlace del trabajo por si hay algún problema en abrir el archivo:
 
